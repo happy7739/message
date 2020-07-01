@@ -1,0 +1,15 @@
+[id]			ID				ID 			id
+[xiangmu]		项目			项目ID		pid
+[liuyanshebei]	留言设备		留言设备	device
+[xingming]		姓名			姓名		name
+[dianhua]		电话			电话		tel
+[dizhi]			地址			地址		address
+[weixin]		微信			微信		wechat
+								邮箱		email
+[neirong]		内容			内容		content
+								IP地址		ip
+								发布时间	create_time
+[shifouyidu]	是否已读		是否已读	status
+[fabushijian]	发布时间		已读时间	read_time
+[liuyanwangzi]	留言网站		留言网站	url
+[qita]			其他			其他		other
